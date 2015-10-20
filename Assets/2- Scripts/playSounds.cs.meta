@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ae09d0f6218f3498282cdc45c8a4a91c
+timeCreated: 1445144671
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hitWoodClip: {fileID: 8300000, guid: 51b940e858271419f897d13fc3fd2119, type: 3}
+  - hitGrassClip: {fileID: 8300000, guid: 5438a065b3c59400cb840fb00d1633bc, type: 3}
+  - hitBall: {fileID: 8300000, guid: 61d1c808a543a4fe5939220b70b97432, type: 3}
+  - rollOnGrass: {fileID: 8300000, guid: eb5ff260db19549e5be774ace5f7982f, type: 3}
+  - rollOnWood: {fileID: 8300000, guid: fcfd383d08cfb4702ba96b62d2284ca9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
